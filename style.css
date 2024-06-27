@@ -11,12 +11,14 @@ nav {
   justify-content: space-around;
   align-content: center;
   align-items: center;
-  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   cursor: pointer;
+  background-color: aqua;
+  z-index: 1000;
+  flex-wrap: wrap;
 }
-main {
-  margin-top: 20px;
-}
+
 .logo img {
   width: 150px;
   height: 32px;
@@ -49,4 +51,7 @@ button {
   color: white;
   border: none;
   padding-top: 14px;
+}
+main {
+  padding-top: 70px;
 }
