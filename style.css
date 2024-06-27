@@ -7,7 +7,15 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
 }
 main {
   margin-top: 20px;
+}
+.logo img {
+  width: 150px;
+  height: 32px;
 }
