@@ -14,7 +14,7 @@ nav {
   padding-top: 10px;
   padding-bottom: 10px;
   cursor: pointer;
-  background-color: aqua;
+  background-color: white;
   z-index: 1000;
   flex-wrap: wrap;
 }
@@ -53,5 +53,6 @@ button {
   padding-top: 14px;
 }
 main {
-  padding-top: 70px;
+  padding-top: 110px;
+  background-color: #f2faff;
 }
