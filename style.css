@@ -2,3 +2,12 @@ body {
   font-family: "Inter", sans-serif;
   margin: 0;
 }
+nav {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+main {
+  margin-top: 20px;
+}
